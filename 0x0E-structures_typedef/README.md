@@ -1,1 +1,1 @@
-README for STRUCTURES AND typedef
+README file for struct and typdef
