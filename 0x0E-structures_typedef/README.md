@@ -1,0 +1,1 @@
+README for STRUCTURES AND typedef
